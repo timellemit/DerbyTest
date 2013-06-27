@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Thu Jun 27 15:05:14 MSK 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.9.1.0 - (1344872): instance a816c00e-013f-854e-fcfd-0000022f6320 
+on database directory /home/jury_kashnitskiy/workspace/LogisticDb/MyDB  with class loader sun.misc.Launcher$AppClassLoader@17e982f 
+Loaded from file:/home/jury_kashnitskiy/.m2/repository/org/apache/derby/derby/10.9.1.0/derby-10.9.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_17-b02
+user.dir=/home/jury_kashnitskiy/workspace/LogisticDb
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

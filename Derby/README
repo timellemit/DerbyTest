@@ -1,5 +1,0 @@
-src/ordersDerbyDB/MyFrame.java - вывод данных из таблиц Executers, Drivers, Autos и Orders.
-При вводе данных ID должен быть уникальным (пока проверки нет).
-Для таблицы Orders дата вводится только в формате yyyy/MM/dd.
-CreateScript.sql - скрипт для создания тестовых таблиц
-insert*.sql - заполнение тестовых таблиц
